@@ -9,6 +9,8 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
   }
 }
